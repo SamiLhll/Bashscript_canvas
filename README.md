@@ -8,10 +8,10 @@ Create the skeleton of a new bash script with arguments in one command line
 ```{bash}
 
 # download :
-wget https://github.com/SamiLhll/Bashscript_canvas/releases/download/v0.1.1/Bashscript_canvas.tar.gz
+wget https://github.com/SamiLhll/Bashscript_canvas/archive/refs/tags/v0.1.1.tar.gz
 
 # uncompress :
-tar -xzf Bashscript_canvas.tar.gz
+tar -xzf v0.1.1.tar.gz
 
 
 ### OPTIONAL :
