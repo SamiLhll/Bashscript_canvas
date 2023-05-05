@@ -1,5 +1,8 @@
-# Bashscript_canvas
+# Bashscript_canvas <a><img src='https://github.com/SamiLhll/Bashscript_canvas/blob/28a02e5f390310df3c48736935b0779d799854f4/logo_Bashscript_canva.png' align="right" height="190" /></a>
+
 Create the skeleton of a new bash script with arguments in one command line 
+
+
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
